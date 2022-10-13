@@ -15,6 +15,3 @@
 参考：
 - [Google Authenticator 原理及Java实现](https://blog.csdn.net/lizhengjava/article/details/76947962)
 - [两步验证杀手锏：Java 接入 Google 身份验证器实战](https://blog.csdn.net/youanyyou/article/details/81937753)
-
-源码：
-- [Google身份验证器使用案例带测试代码](https://github.com/MRLEILOVE/google-authenticator)
